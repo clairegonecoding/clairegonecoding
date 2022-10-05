@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clairegonecoding
-- 👀 I’m interested in frontend developing
+- 👀 I’m interested in frontend development
 - 🌱 I’m currently learning HTML and Javascript
 
 <!---
