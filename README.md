@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clairegonecoding
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👀 I’m currently studying IT at Novia Univerisity of Applied Sciences
+- 🌱 I’m currently learning HTML, CSS and Javascript, Python
 
 <!---
 clairegonecoding/clairegonecoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
